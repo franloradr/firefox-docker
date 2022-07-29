@@ -1,4 +1,4 @@
-# firefox-docker
+# Firefox under Docker
 Firefox under ubuntu docker container
 
 <p align="center">
